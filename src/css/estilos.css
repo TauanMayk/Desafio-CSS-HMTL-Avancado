@@ -74,6 +74,8 @@ button:hover{
     align-self: self-end;
     color: #fff;
     padding-right: 55px;
+    position: relative;
+    top: 40px;
 }
 
 i{
